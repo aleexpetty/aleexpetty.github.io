@@ -10127,16 +10127,20 @@ section.resume-section .resume-section-content {
 
 @media (max-width: 576px) {
   h1{font-size: 2rem}
+  h2{font-size: 1.5rem}
 }
 
 @media (max-width: 768px) {
   h1{font-size: 3rem}
+  h2{font-size: 1.5rem}
 }
 
 @media (max-width: 991px) {
   h1{font-size: 3rem}
+  h2{font-size: 2rem}
 }
 
 @media (max-width: 1199px) {
   h1{font-size: 3rem}
+  h2{font-size: 2.5rem}
 }
