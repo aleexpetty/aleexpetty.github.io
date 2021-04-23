@@ -10132,3 +10132,11 @@ section.resume-section .resume-section-content {
 @media (max-width: 768px) {
   h1{font-size: 3rem}
 }
+
+@media (max-width: 991px) {
+  h1{font-size: 4rem}
+}
+
+@media (max-width: 1199px) {
+  h1{font-size: 5rem}
+}
