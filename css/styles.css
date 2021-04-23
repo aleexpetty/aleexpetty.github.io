@@ -10125,8 +10125,10 @@ section.resume-section .resume-section-content {
   text-transform: uppercase;
 }
 
-@media (min-width: 768px) {
-  h1, .h1 {
-    font-size: 3rem;
-  }
+@media (max-width: 576px) {
+  h1{font-size: 2rem}
+}
+
+@media (max-width: 768px) {
+  h1{font-size: 3rem}
 }
