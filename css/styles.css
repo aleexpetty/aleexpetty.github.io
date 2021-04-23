@@ -10124,3 +10124,9 @@ section.resume-section .resume-section-content {
   letter-spacing: 0.05rem;
   text-transform: uppercase;
 }
+
+@media (min-width: 768px) {
+  h1, .h1 {
+    font-size: 3rem;
+  }
+}
